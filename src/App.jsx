@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import TransactionForm from "./TransactionForm";
 import TransactionList from "./TransactionList";
 import BalanceCard from "./BalanceCard";
-import "./app.css";
+import "./App.css"; 
 
 function App() {
   const [transactions, setTransactions] = useState(
