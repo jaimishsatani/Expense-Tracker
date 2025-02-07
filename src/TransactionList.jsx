@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 
 const TransactionList = ({ transactions, deleteTransaction, editTransaction }) => {
   return (

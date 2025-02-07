@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 
 const BalanceCard = ({ transactions }) => {
   const totalBalance = transactions.reduce((acc, t) => (t.type === "credit" ? acc + t.amount : acc - t.amount), 0);
