@@ -1,4 +1,3 @@
-Here's a `README.md` file for your **Expense Tracker** project:  
 
 ```markdown
 # Expense Tracker
